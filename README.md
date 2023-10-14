@@ -10,4 +10,4 @@ Apresentações do WSCAD 2023 da UFV
 
 # Weac
 
-1. [Ensino de Software Pipelining e Escalonamento em GPUs com Python no Google Colab](https://docs.google.com/presentation/d/e/2PACX-1vR2MBIzjCWlPU1Mz4eLQ1PjyQ9aFkBwa83mPiWgzIVcx2wL20irj2SS4VbFqaH8eSNlysgll2z8od9q/pub?start=false&loop=false&delayms=60000) [Versão PDF para Download]()
+1. [Ensino de Software Pipelining e Escalonamento em GPUs com Python no Google Colab](https://docs.google.com/presentation/d/e/2PACX-1vR2MBIzjCWlPU1Mz4eLQ1PjyQ9aFkBwa83mPiWgzIVcx2wL20irj2SS4VbFqaH8eSNlysgll2z8od9q/pub?start=false&loop=false&delayms=60000) [Versão PDF para Download](https://github.com/arduinoufv/wscad23/blob/main/weac%20wscad%2023.pdf)
